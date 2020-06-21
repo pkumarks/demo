@@ -43,6 +43,7 @@ public class TC_5 extends Base {
 		p.item.get(0).click();
 		p.item.get(0).click();
 		p.cart.click();
+		System.out.println("git check");
 
 		Thread.sleep(4000);
 		int count = driver.findElements(By.id("com.androidsample.generalstore:id/productPrice")).size();
