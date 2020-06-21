@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="116637" started-at="2020-06-20T17:29:49 IST" finished-at="2020-06-20T17:31:46 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="116637" started-at="2020-06-20T17:29:49 IST" finished-at="2020-06-20T17:31:46 IST">
+      <class name="AppiumFramework.PageObjectModel.basicsDemo">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:AppiumFramework.PageObjectModel.basicsDemo@491cc5c9]" name="apiDemo" duration-ms="32442" started-at="2020-06-20T17:30:41 IST" data-provider="InputData" finished-at="2020-06-20T17:31:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:AppiumFramework.PageObjectModel.basicsDemo@491cc5c9]" name="apiDemo" duration-ms="32441" started-at="2020-06-20T17:31:13 IST" data-provider="InputData" finished-at="2020-06-20T17:31:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[$%$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+      </class> <!-- AppiumFramework.PageObjectModel.basicsDemo -->
+      <class name="AppiumFramework.PageObjectModel.TC_5">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:AppiumFramework.PageObjectModel.TC_5@1b26f7b2]" name="killAllNodes" is-config="true" duration-ms="3018" started-at="2020-06-20T17:29:49 IST" finished-at="2020-06-20T17:29:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="test()[pri:0, instance:AppiumFramework.PageObjectModel.TC_5@1b26f7b2]" name="test" duration-ms="48651" started-at="2020-06-20T17:29:52 IST" finished-at="2020-06-20T17:30:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- AppiumFramework.PageObjectModel.TC_5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
